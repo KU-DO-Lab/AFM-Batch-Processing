@@ -185,3 +185,8 @@ devenv.lock
 
 # pre-commit
 .pre-commit-config.yaml
+devenv.yaml
+*.lock
+*.nix
+.envrc
+devenv.yaml
